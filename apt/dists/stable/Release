@@ -1,0 +1,31 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Mon, 23 Feb 2026 22:26:14 +0000
+Label: The Inference Grid
+Origin: The Inference Grid
+Suite: stable
+MD5Sum:
+ 2b072012f26ecee1bbe963f404bc0748              166 Release
+ 92836977043c618adcf61deef2b22fc4             1077 main/binary-amd64/Packages
+ 3514b6a0262711f837c956529aff8ee9              545 main/binary-amd64/Packages.gz
+ 299d97b65adc58564219c02843fcaf91             1016 main/binary-arm64/Packages
+ d573f7b2549013584416fa632ee4583c              526 main/binary-arm64/Packages.gz
+SHA1:
+ 0338255ba8e152f22a3c7781fb2a43e30078338a              166 Release
+ b4195b5c4c9b847f9dfc28ef58a4415a72423849             1077 main/binary-amd64/Packages
+ 06ec9f33229c2ea60aa586dd5711ed07e937929f              545 main/binary-amd64/Packages.gz
+ 905670f957f6f744992204d11f2e2ce6356eea23             1016 main/binary-arm64/Packages
+ 5cb3b213f43460eb5cd1e2f40f49802dced1b377              526 main/binary-arm64/Packages.gz
+SHA256:
+ 5203ed96500e32dff6544cfbd976416da5c94be0bc68a8599bc93ad32ed793fd              166 Release
+ 2611188663fdce58f285bdc167becdf3a46ff6fee69d650a3caf3accd48562e9             1077 main/binary-amd64/Packages
+ cf4f9d3f5f75cc3f8330e8dd56b19630b07160e15baa4944543361b6c5117fe2              545 main/binary-amd64/Packages.gz
+ a42c5a40d85a3df2dccd6e4b7cf0b8f9d8a05a040f7a6aed011f31f1270c2dda             1016 main/binary-arm64/Packages
+ a7a853e49db684927388261f42c8f3a6b260382cda5731650d22a0deec0d2eb3              526 main/binary-arm64/Packages.gz
+SHA512:
+ a649201d51875841be2d1b58cb0aecd302fba6a14befe6d75d2ab692067874ee0b9f413905ec3fc28ff10c021cec31736467154f1ece52da9386da4205a63fe1              166 Release
+ 40bcc4ad39fc3d96c941a780a6f115ca4fdb8d46212cac4f6be46605fd458ba1a6761fcee09ab283520114ae09341fd8e768ef3854546d3dd2d0ccf8edbc8a4e             1077 main/binary-amd64/Packages
+ 9991b87341d00711356d8c6255454695ddfa2c5e46963308a92cac07d77297f9590a5cd31b83abb61fd010ec60cf583be40abe9047ce7c45a598c0572822e80e              545 main/binary-amd64/Packages.gz
+ da0e888ba5253fcff549bd06d13ef3c865b3c0a374533b88d7cb04ca8ef2b0f9748ccf26f522b961d0095fda52959615778efc05b3ba862d72367b9be76d27af             1016 main/binary-arm64/Packages
+ 73c25575df25a93ed436819a5b105b173f80f27badb13f7d784e6cae781d5cada992018c071283351ffd36356355d4f8a24651dc744ba91d291f5a46d3409e33              526 main/binary-arm64/Packages.gz
