@@ -1,28 +1,28 @@
 Package: grid-cli
-Version: 0.2.0
+Version: 0.3.0
 Architecture: arm64
 Maintainer: The Grid Team <eng@theinferencegrid.com>
 Installed-Size: 31232
-Filename: pool/main/grid-cli_0.2.0_linux_arm64.deb
-Size: 9562984
-MD5sum: a09034d572e4672bc2d1cbe55a2e8dbb
-SHA1: 4994ce84f4764fbd308d2253dc88cfff79bb79bc
-SHA256: 3f9aa0ea18babfb9e2e7e213d4819a0e697049f0f768698efc367670589d4d1c
+Filename: pool/main/grid-cli_0.3.0_linux_arm64.deb
+Size: 9564006
+MD5sum: d636bb37731d1acbce50f2b07a1b2465
+SHA1: b26e65c7a06199786f4de42447199ea29226e2b1
+SHA256: ab052cc92b93303148aaa5fc1cd486adbfc715026e0bad86c2acd269029e01c3
 Priority: optional
 Homepage: https://theinferencegrid.com
 Description: The Grid CLI — lab onboarding and model management
 License: Proprietary
 
 Package: gridprov-cli
-Version: 0.2.0
+Version: 0.3.0
 Architecture: arm64
 Maintainer: The Grid Team <eng@theinferencegrid.com>
-Installed-Size: 14720
-Filename: pool/main/gridprov-cli_0.2.0_linux_arm64.deb
-Size: 5537542
-MD5sum: 5641f3a658bb7391225dbf9db38b77c4
-SHA1: 995a4c6dbe356810169fc03898ae08addb02980c
-SHA256: 89f01e47d7b57f44b3a5a52bcaf3ad04eb52817005484cfd1ed3b4e1b1e28f30
+Installed-Size: 14784
+Filename: pool/main/gridprov-cli_0.3.0_linux_arm64.deb
+Size: 5535526
+MD5sum: 893e8ca4886a969e45f2d334d1ee1c1d
+SHA1: 10df3aa113906bca246e407edff6c3008e85ffc0
+SHA256: 9eb9a66045830cb7c72f140a441a5447c572372884581a9ef3779d6ef62eaa9d
 Priority: optional
 Homepage: https://theinferencegrid.com
 Description: The Grid Provider CLI — provider onboarding and management
